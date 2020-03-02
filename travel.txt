@@ -3,6 +3,7 @@ Packing List
 -shoes
 -coat
 -camera
+-test
 
 Picnic
 ------------
